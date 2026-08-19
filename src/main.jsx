@@ -126,7 +126,7 @@ const i18n = {
 
     available: "Disponible pour",
 
-    gallery: "Galerie CovoLiv",
+    gallery: "Quelques captures d’écran de CovoLiv",
 
     previous: "Capture précédente",
 
